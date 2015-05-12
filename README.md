@@ -1,0 +1,2 @@
+# MyMongoDb
+Opsworks Template Testing
